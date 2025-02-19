@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "uyga vazifa-1",
+			"path": "."
+		},
+		{
+			"name": "image",
+			"path": "../../image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uyga vazifa-1"
+	}
+}
